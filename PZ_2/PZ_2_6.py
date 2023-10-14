@@ -11,4 +11,4 @@ try:
     else:
         raise ValueError
 except ValueError:
-    print('Введите корректное значение')
+    print('Введите корректное значение.')
